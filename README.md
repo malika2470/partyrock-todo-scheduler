@@ -13,7 +13,7 @@ Try it here: [https://partyrock.aws/u/malika2470/kbAKk4NLD/TaskMaster-Pro](https
 
 ## 🖼️ Screenshots
 ![App Screenshot](screenshot1.jpg)
-![App Screenshot] (screenshot2.jpg)
+![App Screenshot](screenshot2.jpg)
 
 ## 🧠 Built With
 - [PartyRock](https://partyrock.aws)
