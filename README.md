@@ -8,8 +8,9 @@ TaskMaster Pro is an AI-powered daily task scheduler built using [PartyRock by A
 - Add your energy level info
 - The app generates a customized daily task plan
 
-## 🚀 Live App
-Try it here: [https://partyrock.aws/u/malika2470/kbAKk4NLD/TaskMaster-Pro](https://partyrock.aws/your-app-link)
+## 🚀 Live App  
+Try it here: [https://partyrock.aws/u/malika2470/kbAKk4NLD/TaskMaster-Pro](https://partyrock.aws/u/malika2470/kbAKk4NLD/TaskMaster-Pro)
+
 
 ## 🖼️ Screenshots
 ![App Screenshot](screenshot1.jpg)
